@@ -31,13 +31,6 @@ I am a developer passionate about building SaaS solutions and automating complex
 
 ---
 
-### 📊 My GitHub Stats
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JacxDev&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacxDev&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div> -->
-
----
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacxdev/)
