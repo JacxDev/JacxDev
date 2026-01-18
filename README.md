@@ -29,4 +29,4 @@ I am a developer passionate about building SaaS solutions and automating complex
 </div>
 
 ---
-[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://your-website.com)
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jacxdev/)) • [Portfolio](https://your-website.com)
